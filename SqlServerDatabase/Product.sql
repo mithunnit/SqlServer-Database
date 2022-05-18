@@ -1,8 +1,9 @@
 ﻿CREATE TABLE [dbo].[Product]
 (
 	[Id] INT NOT NULL PRIMARY KEY, 
-    [Name] VARCHAR(50) NULL, 
-    [Cost] INT NULL,
-    [Height] INT NULL,
-    [Color] NVARCHAR(50) NULL
+    [Name] VARCHAR(50) Mithun, 
+    [Cost] INT 2000,
+    [Height] INT 165,
+    [Weught] INT 60,
+    [Color] NVARCHAR(50) Blue
 )
